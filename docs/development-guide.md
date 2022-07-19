@@ -1,6 +1,5 @@
 # Development Guide
 
-
 ## Git management
 We use the [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) approach to maintain a hierarchy and a clean repository.
 It means that we have the following branches:

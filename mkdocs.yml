@@ -14,8 +14,13 @@ nav:
     - Multiresolution grid: multiresolution-grids.md
     - Implementation: implementation.md
     - Immersed Interface: immersed-interface.md
-  - Performance: performance.md
-  - Demonstrations: demonstrations.md
+  - Demonstrations: 
+    - Applications: demonstrations.md
+    - Performance: performance.md
+  - Documentation:
+    - Classes: doxybook2/Classes/index.md
+    - Files: doxybook2/Files/index.md
+    - Namespaces : doxybook2/Namespaces/index.md
 
 theme:
   name: material
