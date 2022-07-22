@@ -24,6 +24,8 @@ nav:
 
 theme:
   name: material
+  #palette:
+  #  scheme: slate  
   features:
     - content.code.annotate    
     
