@@ -12,15 +12,6 @@ nav:
     - Custom Types: custom-types.md
   - Background:
     - Multiresolution grid: multiresolution-grids.md
-    - Implementation: implementation.md
-    - Immersed Interface: immersed-interface.md
-  - Demonstrations: 
-    - Applications: demonstrations.md
-    - Performance: performance.md
-  - Documentation:
-    - Classes: doxybook2/Classes/index.md
-    - Files: doxybook2/Files/index.md
-    - Namespaces : doxybook2/Namespaces/index.md
 
 theme:
   name: material
